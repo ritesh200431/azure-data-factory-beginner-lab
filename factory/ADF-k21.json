@@ -1,0 +1,9 @@
+{
+	"name": "ADF-k21",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c39aecd2-e494-4c28-adf1-6f896151eba2",
+		"tenantId": "da8ed114-679d-4198-88e5-128a1bbba6c0"
+	}
+}
